@@ -13,17 +13,6 @@
   font-style: normal;
 }
 
-@media screen and (max-width:600px){
-  
-  .nav-wrapper .row .col.offset-s5{ margin-left:0 }
-  
- .nav-wrapper .col.offset-s5 a{ 
-  float:none;
-   margin:auto;
-   display:table;
-  } 
-}
-
 body {
   width: 100vw;
   height: 100vh;
